@@ -1,5 +1,5 @@
-# TerraMind regional data packs
+# Know the World regional data packs
 
-This public repository hosts the manifest for the TerraMind app. Versioned SQLite database files are attached to GitHub Releases.
+This public repository hosts the manifest for the Know the World app. Versioned SQLite database files are attached to GitHub Releases.
 
 Data sources: Wikidata, Wikipedia, and Wikimedia Commons.
