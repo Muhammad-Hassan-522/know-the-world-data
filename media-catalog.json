@@ -1,0 +1,164 @@
+{
+  "version": "1.1.0",
+  "generated_at": "2026-11-08T16:50:18.120107+00:00",
+  "regions": [
+    {
+      "slug": "middle-east",
+      "name": "Middle East",
+      "files": 5852,
+      "parts": [
+        {
+          "name": "media-middle-east.zip",
+          "size_bytes": 1032514934,
+          "checksum": "sha256:6f6d2ca4b251773ddbe7757c4a124a651bf4f948df447690e9eb0e0d94b49868",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-middle-east.zip",
+          "files": 5852,
+          "uncompressed_bytes": 985498049
+        }
+      ]
+    },
+    {
+      "slug": "europe",
+      "name": "Europe",
+      "files": 11054,
+      "parts": [
+        {
+          "name": "media-europe-1.zip",
+          "size_bytes": 1805672233,
+          "checksum": "sha256:b33b4939372f2a5110832f18096bfa77ebc3690e978900a3a9bd7d62cd4b3024",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-europe-1.zip",
+          "files": 9109,
+          "uncompressed_bytes": 1717836058
+        },
+        {
+          "name": "media-europe-2.zip",
+          "size_bytes": 384748297,
+          "checksum": "sha256:a3fc4fb16ab201bfff501fc8b08f153846d07bb5b73a6f47c9eb7e4816e0df0c",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-europe-2.zip",
+          "files": 1945,
+          "uncompressed_bytes": 365970565
+        }
+      ]
+    },
+    {
+      "slug": "core",
+      "name": "Core",
+      "files": 536,
+      "parts": [
+        {
+          "name": "media-core.zip",
+          "size_bytes": 106405903,
+          "checksum": "sha256:e9f3bdd6ad1b3c1ee4905cfda671528057f77bf95b6e0bc28cfec881dfa3273d",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-core.zip",
+          "files": 536,
+          "uncompressed_bytes": 101234725
+        }
+      ]
+    },
+    {
+      "slug": "south-asia",
+      "name": "South Asia",
+      "files": 3082,
+      "parts": [
+        {
+          "name": "media-south-asia.zip",
+          "size_bytes": 560987395,
+          "checksum": "sha256:53be83b944c15da7a8a89ae68708b9cd08207c06ed8256659acf0b053d6b0070",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-south-asia.zip",
+          "files": 3082,
+          "uncompressed_bytes": 536072919
+        }
+      ]
+    },
+    {
+      "slug": "central-asia",
+      "name": "Central Asia",
+      "files": 1099,
+      "parts": [
+        {
+          "name": "media-central-asia.zip",
+          "size_bytes": 172908047,
+          "checksum": "sha256:5a4d881f884f1b946481b2de19c1aa792f4fa11969246c85cc37588f31ebb053",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-central-asia.zip",
+          "files": 1099,
+          "uncompressed_bytes": 165189131
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "name": "Africa",
+      "files": 9829,
+      "parts": [
+        {
+          "name": "media-africa.zip",
+          "size_bytes": 1615847750,
+          "checksum": "sha256:a0be782679650fd188e1b39c5fae68c9b248f9cbc6de476b8cd08602f2cf3e12",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-africa.zip",
+          "files": 9829,
+          "uncompressed_bytes": 1543010476
+        }
+      ]
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "files": 1707,
+      "parts": [
+        {
+          "name": "media-oceania.zip",
+          "size_bytes": 275463432,
+          "checksum": "sha256:6b6d191d541afc0eef051ffbb2b8c64d63dbd2064bfb20923f5412c7c41caa30",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-oceania.zip",
+          "files": 1707,
+          "uncompressed_bytes": 263326556
+        }
+      ]
+    },
+    {
+      "slug": "southeast-asia",
+      "name": "Southeast Asia",
+      "files": 2730,
+      "parts": [
+        {
+          "name": "media-southeast-asia.zip",
+          "size_bytes": 431229060,
+          "checksum": "sha256:a17c54d7f74a84254bba2517397686e9c3dafa47da641869cdf5506490a1b456",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-southeast-asia.zip",
+          "files": 2730,
+          "uncompressed_bytes": 412222884
+        }
+      ]
+    },
+    {
+      "slug": "east-asia",
+      "name": "East Asia",
+      "files": 1901,
+      "parts": [
+        {
+          "name": "media-east-asia.zip",
+          "size_bytes": 350214988,
+          "checksum": "sha256:e99b700ba63e2112f3c774fad418b8c904767359c2b79906288e1e1f01d9168e",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-east-asia.zip",
+          "files": 1901,
+          "uncompressed_bytes": 334118441
+        }
+      ]
+    },
+    {
+      "slug": "americas",
+      "name": "Americas",
+      "files": 707,
+      "parts": [
+        {
+          "name": "media-americas.zip",
+          "size_bytes": 145072005,
+          "checksum": "sha256:eba4399aa187c0db79558e021bf4ef15dbd1a8a6c91b47868f173ad98bf0b591",
+          "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.1.0/media-americas.zip",
+          "files": 707,
+          "uncompressed_bytes": 138025709
+        }
+      ]
+    }
+  ]
+}
