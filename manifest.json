@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-11-08T11:32:15.553562+00:00",
+  "packs": [
+    {
+      "slug": "middle-east",
+      "name": "Middle East",
+      "version": "1.0.0",
+      "size_bytes": 151683072,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/middle-east.db",
+      "checksum": "sha256:a065997ba51e452563367e7747257fbebc1ef68f8744b8301349512333ccee23"
+    },
+    {
+      "slug": "europe",
+      "name": "Europe",
+      "version": "1.0.0",
+      "size_bytes": 453857280,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/europe.db",
+      "checksum": "sha256:7b7314f7836b922b1c210933ff87b2891f2ee3b33e60e2184fb10ab5cf65152a"
+    },
+    {
+      "slug": "core",
+      "name": "Core",
+      "version": "1.0.0",
+      "size_bytes": 48734208,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/core.db",
+      "checksum": "sha256:07c84207ec8c300f0be95fa6a53ca28826b609dd83e270cc95b1d7e212c8934e"
+    },
+    {
+      "slug": "south-asia",
+      "name": "South Asia",
+      "version": "1.0.0",
+      "size_bytes": 132386816,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/south-asia.db",
+      "checksum": "sha256:7c68bc3547a8d6af37ad22a1c60e4e7e2c15b08e537e64ac9bd2a5325b9adc36"
+    },
+    {
+      "slug": "central-asia",
+      "name": "Central Asia",
+      "version": "1.0.0",
+      "size_bytes": 26157056,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/central-asia.db",
+      "checksum": "sha256:9f65387e354ce116a45b1f2f0d64c31919abcf949f3df367c7971c995d9d3169"
+    },
+    {
+      "slug": "africa",
+      "name": "Africa",
+      "version": "1.0.0",
+      "size_bytes": 198340608,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/africa.db",
+      "checksum": "sha256:19e4f2efc812f8a6fbc370cc7761a2762384ffaab5a3c7f3fe67c17d8d8af02e"
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "version": "1.0.0",
+      "size_bytes": 50917376,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/oceania.db",
+      "checksum": "sha256:c81a17c42af5a3027d1a959eb1231afc131df25ad3d388630b0a7d03e5cb687b"
+    },
+    {
+      "slug": "southeast-asia",
+      "name": "Southeast Asia",
+      "version": "1.0.0",
+      "size_bytes": 73760768,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/southeast-asia.db",
+      "checksum": "sha256:4e3de2630f20ef7b48691cce1357403a63c0cb65a0135349ac98f51bb7103502"
+    },
+    {
+      "slug": "east-asia",
+      "name": "East Asia",
+      "version": "1.0.0",
+      "size_bytes": 67465216,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/east-asia.db",
+      "checksum": "sha256:229e9e3426957877187055d4fcd32238988ec77b397720d2db35b5db755a70e2"
+    },
+    {
+      "slug": "americas",
+      "name": "Americas",
+      "version": "1.0.0",
+      "size_bytes": 228831232,
+      "download_url": "https://github.com/Muhammad-Hassan-522/know-the-world-data/releases/download/v1.0.0/americas.db",
+      "checksum": "sha256:143218a1e94a45d7b979905641418c2f32b2f0aa143b7fda36e030b7be3494cb"
+    }
+  ]
+}
